@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">I-Kilojoule Counter</string>
+    <string name="CalButton">i-Calculator</string>
+    <string name="DateText">usuku</string>
+    <string name="DiaryEntriesText">Okufakiwe Kwidayari:</string>
+    <string name="Exercise_cat">Isigaba Sokuzivocavoca:</string>
+    <string name="Food_cat">Isigaba sokudla</string>
+    <string name="SelectDateText">Khetha Usuku</string>
+    <string name="averageAns">0kJ</string>
+    <string name="averageText">Isilinganiso (NKI):</string>
+    <string name="breakfast">Ibhulakufesi:</string>
+    <string name="dinner">Ukudla kwakusihlwa:</string>
+    <string name="etotal">0kJ</string>
+    <string name="exercise">Isigaba Sokuzivocavoca:</string>
+    <string name="exitButton">BHALA</string>
+    <string name="food">Isigaba Sokudla Sisonke:</string>
+    <string name="ftotal">0kJ</string>
+    <string name="gym_string">Ijimu:</string>
+    <string name="homePage">Ikhaya</string>
+    <string name="jogging_string">Ukugijima:</string>
+    <string name="ntotal">0kJ</string>
+    <string name="lunch">Isidlo sasemini:</string>
+    <string name="net">Ingqikithi yeNett:</string>
+    <string name="nkiText">I-Nett Kilojoule intake (NKI)</string>
+    <string name="nxt">Olandelayo</string>
+    <string name="prev">Kwedlule</string>
+    <string name="saveButton">Gcina</string>
+    <string name="sport_string">Ezemidlalo:</string>
+    <string name="titleText">Uyemukelwa</string>
+</resources>

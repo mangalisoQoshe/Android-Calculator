@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Áiritheoir Kilojoule</string>
+    <string name="averageAns">0kJ</string>
+    <string name="averageText">Meán (NKI):</string>
+    <string name="breakfast">Bricfeasta:</string>
+    <string name="CalButton">Áireamhán</string>
+    <string name="DateText">Dáta</string>
+    <string name="DiaryEntriesText">Iontrálacha Dialainne:</string>
+    <string name="dinner">Dinnéar:</string>
+    <string name="etotal">0kJ</string>
+    <string name="exercise">Iomlán Chatagóir Ceacht:</string>
+    <string name="Exercise_cat">Catagóir Ceacht</string>
+    <string name="exitButton">Ar ais</string>
+    <string name="food">Iomlán Chatagóir an Bhia:</string>
+    <string name="Food_cat">Catagóir Bia</string>
+    <string name="ftotal">0kJ</string>
+    <string name="gym_string">Ionad Spórt:</string>
+    <string name="homePage">Baile</string>
+    <string name="jogging_string">Bogshodar:</string>
+    <string name="lunch">Lón:</string>
+    <string name="net">Iomlán Nett:</string>
+    <string name="nkiText">Iontógáil Nett Kilojoule (NKI)</string>
+    <string name="ntotal">0kJ</string>
+    <string name="nxt">Ar Aghaidh</string>
+    <string name="prev">Roimhe Seo</string>
+    <string name="saveButton">Sábháil</string>
+    <string name="SelectDateText">Roghnaigh Dáta</string>
+    <string name="sport_string">Spórt:</string>
+    <string name="titleText">Fáilte</string>
+</resources>

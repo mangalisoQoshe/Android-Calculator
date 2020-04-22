@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kilojoule Counter</string>
+    <string name="titleText">Welcome</string>
+    <string name="DiaryEntriesText">Diary Entries :</string>
+    <string name="DateText">Date</string>
+    <string name="averageText">Average (NKI) :</string>
+    <string name="averageAns">0kJ</string>
+    <string name="CalButton">Calculator</string>
+    <string name="SelectDateText">Select Date</string>
+    <string name="Food_cat">Food Category</string>
+    <string name="Exercise_cat">Exercise Category</string>
+    <string name="lunch">Lunch:</string>
+    <string name="dinner">Dinner:</string>
+    <string name="breakfast">Breakfast:</string>
+    <string name="sport_string">Sport:</string>
+    <string name="gym_string">Gym:</string>
+    <string name="jogging_string">Jogging:</string>
+    <string name="net">Nett Total:</string>
+    <string name="food">Food Category Total:</string>
+    <string name="exercise">Exercise Category Total:</string>
+    <string name="ntotal">0kJ</string>
+    <string name="etotal">0kJ</string>
+    <string name="ftotal">0kJ</string>
+    <string name="exitButton">BACK</string>
+    <string name="saveButton">Save</string>
+    <string name="showEntry"></string>
+    <string name="prev">Previous</string>
+    <string name="nxt">Next</string>
+    <string name="nkiText">Nett Kilojoule intake(NKI)</string>
+    <string name="homePage">Home</string>
+</resources>
